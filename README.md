@@ -40,9 +40,9 @@ Founder & CEO of [ProVocis](https://provocis.com)
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nishanthdhinakar&theme=radical&show_icons=true&hide_border=false&count_private=true)  
-![](https://streak-stats.demolab.com?user=nishanthdhinakar&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthdhinakar&theme=radical&layout=compact&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=nishanthdhina&theme=radical&show_icons=true&hide_border=false&count_private=true)  
+![](https://streak-stats.demolab.com?user=nishanthdhina&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthdhina&theme=radical&layout=compact&hide_border=false)
 
 ---
 
@@ -59,13 +59,14 @@ Founder & CEO of [ProVocis](https://provocis.com)
 
 [![](https://visitcount.itsvg.in/api?id=nishanthdhinakar&icon=5&color=12)](https://visitcount.itsvg.in)
 
+---
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishanthdhinakar/nishanthdhinakar/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishanthdhinakar/nishanthdhinakar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nishanthdhinakar/nishanthdhinakar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nishanthdhina/nishanthdhina/output/github-snake.svg" />
 </picture>
 
 ---
-
-> “Code like a hacker. Build like a founder. Dream like a pilot.”
 
