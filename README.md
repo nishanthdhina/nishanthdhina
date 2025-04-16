@@ -4,20 +4,13 @@ Founder & CEO of [ProVocis](https://provocis.com)
 
 
 ---
-<h2>🌐 Connect with me</h2>
 
-<a href="https://instagram.com/nishanthdhina" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-</a>
-<a href="mailto:hi@nishanthdhina.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/nishanthdhina" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-</a>
-<a href="https://nishanthdhina.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-</a>
+## 🌐 Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishanthdhina) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hi@nishanthdhina.dev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishanthdhina)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://nishanthdhina.dev)
 
 ---
 
@@ -76,4 +69,3 @@ Founder & CEO of [ProVocis](https://provocis.com)
 </picture>
 
 ---
-
