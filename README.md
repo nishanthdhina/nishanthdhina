@@ -16,7 +16,7 @@ Founder & CEO of [ProVocis](https://provocis.com)
 
 ## 💼 Currently Working On
 
-- 🔥 **[ProVocis](https://provocis.com)** – AI-powered word-of-the-day app that helps you sound smarter, every day.
+- 🔥 **[ProVocis](https://provocis.com)** – AI-powered Career growth platform that helps you develop smarter, every day.
 - 🧠 **PolicyPal** – Browser extension that reads policies *so you don't have to*.
 - 🧪 **Project NullTrace** – Security meets tech, hacker-style.
 
