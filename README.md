@@ -18,8 +18,7 @@ Founder & CEO of [ProVocis](https://provocis.com)
 
 - 🔥 **[ProVocis](https://provocis.com)** – AI-powered Career growth platform that helps you develop smarter, every day.
 - 🧠 **PolicyPal** – Browser extension that reads policies *so you don't have to*.
-- 🧪 **Project NullTrace** – Security meets tech, hacker-style.
-
+  
 ---
 
 ## 🧰 Tech Stack
