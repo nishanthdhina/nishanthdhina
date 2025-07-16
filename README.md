@@ -24,16 +24,12 @@ Founder & CEO of [ProVocis](https://provocis.com)
 
 ## 🧰 Tech Stack
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffcc2f?style=for-the-badge&logo=firebase&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -42,17 +38,6 @@ Founder & CEO of [ProVocis](https://provocis.com)
 ![](https://github-readme-stats.vercel.app/api?username=nishanthdhina&theme=radical&show_icons=true&hide_border=false&count_private=true)  
 ![](https://streak-stats.demolab.com?user=nishanthdhina&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthdhina&theme=radical&layout=compact&hide_border=false)
-
----
-
-## 🎯 2025 Goals
-
-- 📱 Launch ProVocis globally
-- 💰 Hit $25k+ in revenue
-- 🛫 Begin flight training (PPL)
-- 🧠 Get into MIT / do something just as epic
-- 🏢 Start our Chennai HQ
-- 🧑‍💻 Build more tools that solve real problems
 
 ---
 
