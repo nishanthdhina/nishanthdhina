@@ -30,20 +30,6 @@ Founder & CEO of [ProVocis](https://provocis.com)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=nishanthdhina&theme=radical&show_icons=true&hide_border=false&count_private=true)  
-![](https://streak-stats.demolab.com?user=nishanthdhina&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthdhina&theme=radical&layout=compact&hide_border=false)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=nishanthdhinakar&icon=5&color=12)](https://visitcount.itsvg.in)
-
----
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishanthdhina/nishanthdhina/output/github-snake-dark.svg" />
