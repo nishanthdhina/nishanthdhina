@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Nishanth Dhinakar!
+#  Hey there, I'm Nishanth Dhinakar!
 
 Founder & CEO of [ProVocis](https://provocis.com)  
 
@@ -14,14 +14,14 @@ Founder & CEO of [ProVocis](https://provocis.com)
 
 ---
 
-## 💼 Currently Working On
+##  Currently Working On
 
-- 🔥 **[ProVocis](https://provocis.com)** – AI-powered Career growth platform that helps you develop smarter, every day.
-- 🧠 **PolicyPal** – Browser extension that reads policies *so you don't have to*.
+-  **[ProVocis](https://provocis.com)** – AI-powered Career growth platform that helps you develop smarter, every day.
+-  **PolicyPal** – Browser extension that reads policies *so you don't have to*.
   
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
