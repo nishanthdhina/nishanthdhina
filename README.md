@@ -15,7 +15,7 @@ Building solutiins at [Refound Solutions](https://refoundsolutions.com)
 
 ##  Currently Working On
 
--  **[ProVocis](https://provocis.com)** – AI-powered Career growth platform that helps you develop smarter, every day.
+-  **[Refound Solutions](https://refoundsolutions.com)** – AI-powered Career growth platform that helps you develop smarter, every day.
   
 ---
 
