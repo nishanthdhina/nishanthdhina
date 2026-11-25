@@ -1,11 +1,11 @@
 #  Hey there, I'm Nishanth Dhinakar!
 
-Founder & CEO of [ProVocis](https://provocis.com)  
+Building solutiins at [Refound Solutions](https://refoundsolutions.com)  
 
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishanthdhina) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishanthdhinacontact@gmail.com) 
